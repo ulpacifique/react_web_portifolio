@@ -1,5 +1,5 @@
 # Deploy production build to GitHub Pages (not the repo README).
-# After merging this file, set: Repo → Settings → Pages → Build: GitHub Actions.
+# Repo → Settings → Pages → Build: GitHub Actions (not "Deploy from branch").
 name: Deploy to GitHub Pages
 
 on:
